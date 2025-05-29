@@ -3,25 +3,29 @@ layout: home
 title:  "Homepage"
 date:   2025-05-27 19:41:00 -0500
 ---
-Hi, I'm Lucas!
+## Hi, I'm Lucas!
 
 I'm a software engineer living in Texas. I am currently working at HUVR, where we are building an industrial asset inspection and repair platform. I worked for 5 years in London (UK) in the Financial Tech sector. I progressed from a development position to leading multiple teams of engineers responsible for most of the backend systems of our Banking Platform.
 
 I am passionate about finding solutions to complex problems and systems design, leading engineering teams towards efficient development processes and lifecycle, and working with people from different backgrounds and roles to achieve our objectives.
 
-I specialize in: developing and maintaining APIs: monolithical and microservice-based; handling connectivity between banking systems and third-party integrations; designing scalable and secure high-traffic solutions.
+I specialize in developing and maintaining APIs - monolithical and microservice-based; handling integrations with third-party systems; designing scalable and secure high-traffic solutions.
 
-I am looking forward to deliver key functionality through good design and solid implementation, either as an individual contributor or by leading a team of engineers. I am experienced in hiring the right employees across teams, and will contribute to a company culture of ownership, customer focus, and fun.
+I always look forward to deliver key functionality through good design and solid implementation, either as an individual contributor or by leading a team of engineers. I am experienced in hiring the right employees across teams, and contribute to a company culture of ownership, customer focus, and fun.
 
-Work experience
+---
 
-From 2022-2023 I was an engineering team leader at Chetwood Financial. I was responsible for the Third-party Integrations team and the Quantitative and Simulation team totaling 11 engineers. My group was responsible for most of the backend systems of the Banking Platform, and I took on the Yobota Platform Tech Lead position. Read more...
+### Work experience
 
-From 2018-2022 I was an engineer at Yobota, a vibrant fintech in the heart of London. Yobota built a Banking Platform from scratch, focused on flexibility and reusability. We supplied the platform to 3 financial institutions trading in the UK. The bank named Chetwood Financial acquired the Yobota platform in 2022. Read more...
+2023-Present: I am working as a Senior Software Engineer at [HUVR](https://www.huvrdata.com), where I plan and implement new features for our SaaS website, performing backend and frontend duties.
 
-In 2015 I interned at C.E.R.N. where I worked with an engineering team and where I also developed an application for the department. To see more projects I worked on, see my projects.
+2018-2023: I was an engineer at Yobota, a vibrant fintech in the heart of London. Yobota built a Banking Platform from scratch, focused on flexibility and reusability. We supplied the platform to 3 financial institutions trading in the UK. The bank named [Chetwood Financial](https://www.chetwood.co) acquired the Yobota platform in 2022. I became an engineering team leader and was responsible for the Third-party Integrations team and the Quantitative and Simulation team totaling 11 engineers. My group was responsible for most of the backend systems of the Banking Platform, and I took on the Yobota Platform Tech Lead position. Read more...
 
-Education
+2015: I interned at [CERN](https://home.cern) where I worked with an engineering team and where I also developed an application for the department. To see more projects I worked on, see my projects.
+
+---
+
+### Education
 
 Masters in Artificial Intelligence - University of Sussex (2016-2017)
 
