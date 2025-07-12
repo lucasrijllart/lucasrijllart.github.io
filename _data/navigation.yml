@@ -2,8 +2,8 @@ main:
   - title: Home
     url: /
   - title: Career
-    url: /career.html
+    url: /pages/career.html
   - title: Portfolio
-    url: /portfolio.html
+    url: /pages/portfolio.html
   - title: Contact
-    url: /contact.html
+    url: /pages/contact.html
