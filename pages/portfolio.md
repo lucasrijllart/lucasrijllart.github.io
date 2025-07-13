@@ -4,33 +4,73 @@ title:  "Portfolio"
 date:   2025-05-27 19:41:00 -0500
 ---
 
-[Word of the Day Bot — December 2020](../_posts/2020-12-29-word-of-the-day-bot.md)
+<style>
+.project-block {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 2em;
+}
 
-<img src="../assets/img/portfolio/WOTDB_logo.jpg" style="float:left" height=200>
+.project-image {
+  width: 200px;
+  object-fit: cover;
+  margin-right: 2em;
+  padding-top: 1em;
+}
 
-I created a Twitter account that posts a new word or phrase and its definition every day. I documented the journey from the start of the idea to the fully working project. You can find the active Twitter account here: http://twitter.com/WordOfTheDay_B
+.project-text h3 {
+  margin-top: 0;
+  margin-bottom: 0.5em;
+}
+</style>
 
----
+<br/>
+<div class="project-block">
+    <img src="../assets/img/portfolio/WOTDB_logo.jpg" class="project-image" width=200>
+    <div class="project-text">
+        <h3>
+            <a href="../2020/12/29/word-of-the-day-bot.html">Word of the Day Bot</a> — December 2020
+        </h3>
+        <p>
+            I created a Twitter account that posts a new word or phrase and its definition every day. I documented the journey from the start of the idea to the fully working project. You can find the active Twitter account here: http://twitter.com/WordOfTheDay_B
 
-[Murder With Friends – Global Game Jam 2018 — January 2018 ](../_posts/2018-01-01-murder-with-friends.md)
+        </p>
+    </div>
+</div>
 
-<img src="../assets/img/portfolio/murder-with-friends-logo.png">
+<hr/>
 
-For the Global Game Jam of 2018, our 5-man team created a multiplayer game where friends have to defeat their friends by spawning monsters and activating traps in a creepy dungeon. The main player controls a gun-wielding character from a computer, whilst the others control the environment through their phones, enabling multiplayer on a single computer.  Read more…
+<div class="project-block">
+    <img src="../assets/img/portfolio/murder-with-friends-logo.png" class="project-image" width=300>
+    <div class="project-text">
+        <h3>
+            <a href="../2018/01/01/murder-with-friends.html">Murder With Friends – Global Game Jam 2018</a> — January 2018
+        </h3>
+        <p>
+            For the Global Game Jam of 2018, our 5-man team created a multiplayer game where friends have to defeat their friends by spawning monsters and activating traps in a creepy dungeon. The main player controls a gun-wielding character from a computer, whilst the others control the environment through their phones, enabling multiplayer on a single computer.  <a href="">Read more…</a>
 
-Unity, C#, Web Apps, Web Server, Game Design, Animation, Artwork, Teamwork
+            Unity, C#, Web Apps, Web Server, Game Design, Animation, Artwork, Teamwork
+        </p>
+    </div>
+</div>
 
----
+<hr/>
 
-[Fight Twitter Hackathon — December 2017](../_posts/2017-12-03-fight-twitter.md)
+<div class="project-block">
+    <img src="../assets/img/portfolio/Fight-twitter-logo.png" class="project-image" width=300>
+    <div class="project-text">
+        <h3>
+            <a href="../2017/12/03/fight-twitter.html">Fight Twitter Hackathon</a> — December 2017
+        </h3>
+        <p>
+            In this hackathon, we combined Twitter and silly physics to create Fight Twitter – a slapstick fighting game where the fighters look like real twitter users. Just enter two Twitter usernames, and slap each other off the platforms to win. This was designed and implemented in 12 hours. Read more…
 
-<img src="../assets/img/portfolio/Fight-twitter-logo.png">
+            Unity, C#, Twitter scripts, Game Design, Animation, Game Music, Teamwork
+        </p>
+    </div>
+</div>
 
-In this hackathon, we combined Twitter and silly physics to create Fight Twitter – a slapstick fighting game where the fighters look like real twitter users. Just enter two Twitter usernames, and slap each other off the platforms to win. This was designed and implemented in 12 hours. Read more…
-
-Unity, C#, Twitter scripts, Game Design, Animation, Game Music, Teamwork
-
----
+<hr/>
 
 [Rolls-Royce Starlight hackathon for HackSussex — November 2017](../_posts/2017-11-01-starlight-hackathon.md)
 

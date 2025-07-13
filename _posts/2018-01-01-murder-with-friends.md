@@ -1,6 +1,12 @@
-# Global Game Jam 2018 - Murder With Friends
+---
+layout: single
+classes: wide
+title: Murder With Friends
+date: 2018-01-01
+author_profile: true
+---
 
-date: January 2018
+<!-- # Global Game Jam 2018 - Murder With Friends -->
 
 !logo
 

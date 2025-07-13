@@ -33,12 +33,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   endeavor.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lucasrijllart.com" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: lucasrijllart
-linkedin_username: lucas-rijllart
 
 # Build settings
 plugins:
-  - jekyll-feed
   - jekyll-remote-theme
   - jekyll-include-cache
 
@@ -47,6 +44,13 @@ defaults:
       path: "assets/img"
     values:
       image: true
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: false
+      share: false
+      related: false
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -70,14 +74,18 @@ defaults:
 # theme stuff
 # theme: minimal-mistakes-jekyll
 remote_theme: "mmistakes/minimal-mistakes@4.27.0"
-
 minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 logo: "/assets/img/LR-logo.png"
 
-footer:
+author:
+  name: "Lucas Rijllart"
+  avatar: "/assets/img/headshot-blue-outline.png"
+  # bio: "Software Engineer"
+  location: "Austin, Texas"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/lucasrijllart"
-
-meta: Powered by Stack Overflow
+    - label: "LinkedIn"
+      icon: "fa-brands fa-linkedin"
+      url: "https://www.linkedin.com/in/lucas-rijllart/"
