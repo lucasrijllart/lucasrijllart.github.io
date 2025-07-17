@@ -30,7 +30,7 @@ date:   2025-05-27 19:41:00 -0500
     <img src="/assets/img/portfolio/<>.jpg" class="project-image">
     <div class="project-text">
         <h3>
-            <a href="2025/01/01/<>.html">Title</a> — Date
+            <a href="/portfolio/<>">Title</a> — Date
         </h3>
         <p>
             Description
@@ -189,13 +189,13 @@ date:   2025-05-27 19:41:00 -0500
     <img src="/assets/img/portfolio/Clever-checkers-logo.png" class="project-image">
     <div class="project-text">
         <h3>
-            <a href="/2016/12/01/clever-checkers.html">CleverCheckers: Checkers game with AI opponents</a> — Oct-Dec 2016
+            <a href="/portfolio/clever-checkers">CleverCheckers: Checkers game with AI opponents</a> — Oct-Dec 2016
         </h3>
         <p>
             A checkers game with AI opponents of varying difficulty. The application has a beautiful, easy to use interface with hints to
             help you make the right decisions. Choose from 5 different difficulty levels or play agains another human. The application was
             programmed in Java using Swing and AWT.
-            <a href="/2016/12/01/clever-checkers.html">Read more...</a>
+            <a href="/portfolio/clever-checkers">Read more...</a>
             <br><br>
             Java, AI, Game Design, GUI, Decision Trees
         </p>
@@ -208,13 +208,13 @@ date:   2025-05-27 19:41:00 -0500
     <img src="/assets/img/portfolio/SWhile-logo.png" class="project-image">
     <div class="project-text">
         <h3>
-            <a href="/2016/05/01/SWhile.html">SWhile: Simple IDE for WHILE</a> — 2015-2016
+            <a href="/portfolio/SWhile">SWhile: Simple IDE for WHILE</a> — 2015-2016
         </h3>
         <p>
             An application for programmers to write and execute programs in the WHILE language. The project consisted of making an
             interpreter for the language in Java with an interface in Scala.
             Once developed, this was used by students in the Limits of Computation course taught by Bernhard Reus at the University of Sussex.
-            <a href="/2016/05/01/SWhile.html">Read more...</a>
+            <a href="/portfolio/SWhile">Read more...</a>
             <br><br>
             Scala, Java, JavaCC, Compilers, Software Engineering
         </p>
@@ -224,15 +224,15 @@ date:   2025-05-27 19:41:00 -0500
 <hr/>
 
 <div class="project-block">
-    <img src="/assets/img/portfolio/Pdf-to-list.png" class="project-image">
+    <img src="/assets/img/portfolio/pdf-to-list-logo.png" class="project-image">
     <div class="project-text">
         <h3>
-            <a href="/2015/07/01/pdftolist.html">PdfToList: CERN Civil Engineering Plan information extraction</a> — July 2015
+            <a href="/portfolio/pdftolist">PdfToList: CERN Civil Engineering Plan information extraction</a> — July 2015
         </h3>
         <p>
             Information extraction tool for civil engineering plans. Developed for the Civil Engineering department of CERN during my
             internship in 2015. The program extracts relevant information into an excel document.
-            <a href="/2015/07/01/pdftolist.html">Read more...</a>
+            <a href="/portfolio/pdftolist">Read more...</a>
             <br><br>
             Python, Software Engineering, Data Science
         </p>

@@ -8,7 +8,7 @@ author_profile: true
 
 <!-- # Global Game Jam 2018 - Murder With Friends -->
 
-!logo
+<img src="/assets/img/portfolio/murder-with-friends-logo.png" alt="Murder With Friends in a bloody font">
 
 This year's Global Game Jam Theme was Transmission. With such a vague theme, we decided to incorporate the transmission in the gameplay, by connecting phones to a game where players could perform actions while the main player was in game. Our environment consists of a creepy dungeon filled with spooky monsters and deadly traps.
 
