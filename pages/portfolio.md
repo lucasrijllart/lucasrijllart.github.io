@@ -130,16 +130,16 @@ date:   2025-05-27 19:41:00 -0500
 <hr/>
 
 <div class="project-block">
-    <img src="/assets/img/portfolio/power-is-everything.png" class="project-image">
+    <img src="/assets/img/portfolio/PIE_logo.png" class="project-image">
     <div class="project-text">
         <h3>
-            <a href="/2017/07/01/power-is-everything.html">Power is Everything Hackathon</a> — July 2017
+            <a href="/portfolio/power-is-everything">Power is Everything Hackathon</a> — July 2017
         </h3>
         <p>
             Power is Everything is a game that achieved 10th place for the Game Maker’s Toolkit 2017 Game Jam where teams have 48 hours to
             produce a working game.
             <br><br>
-            Our 4-man team created a side Scrolling shoot-me-up with one core concept: your power bar limits your progression through the game. <a href="/2017/07/01/power-is-everything.html">Read more...</a>
+            Our 4-man team created a side Scrolling shoot-me-up with one core concept: your power bar limits your progression through the game. <a href="/portfolio/power-is-everything">Read more...</a>
             <br><br>
             C++, Game Design, Artwork, Game Music, Teamwork
         </p>
@@ -152,12 +152,12 @@ date:   2025-05-27 19:41:00 -0500
     <img src="/assets/img/portfolio/World-stories-VR.jpg" class="project-image">
     <div class="project-text">
         <h3>
-            <a href="/2017/05/01/worldstories-vr.html">WorldStoriesVR: VR history lessons</a> — Apr-May 2017
+            <a href="/portfolio/worldstoriesvr">WorldStoriesVR: VR history lessons</a> — Apr-May 2017
         </h3>
         <p>
             World Stories VR is an immersive storytelling VR app where users can learn different topics of history, be it historical figures
             and their stories or countries and their past. The smartphone app, when paired with a VR headset, provides high-quality documentary-style lessons on a chosen topic to be enjoyed in the comfort of your own home.
-            <a href="/2017/05/01/worldstories-vr.html">Read more...</a>
+            <a href="/portfolio/worldstoriesvr">Read more...</a>
             <br><br>
             C#, Unity, Virtual Reality, Technology Enhanced Learning Environments
         </p>
@@ -170,13 +170,13 @@ date:   2025-05-27 19:41:00 -0500
     <img src="/assets/img/portfolio/heatmap_logo.png" class="project-image">
     <div class="project-text">
         <h3>
-            <a href="/2016/12/12/heatmapp.html">HeatmAPP: Property value heatmap</a> — Oct-Dec 2016
+            <a href="/portfolio/heatmapp">HeatmAPP: Property value heatmap</a> — Oct-Dec 2016
         </h3>
         <p>
             A UK property price heatmap application. Users can search any city by postcode or use their current location to view pricing
             information. House prices in the area are displayed on a scale of green (cheaper) to red (expensive). The app uses a big database
             on Amazon EC2 Servers and was programmed in Android Studio in Java.
-            <a href="/2016/12/12/heatmapp.html">Read more...</a>
+            <a href="/portfolio/heatmapp">Read more...</a>
             <br><br>
             Java, Android, Big Data, PHP, Software Engineering, SQL, Agile
         </p>
