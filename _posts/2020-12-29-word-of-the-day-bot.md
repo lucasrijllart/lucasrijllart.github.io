@@ -1,7 +1,9 @@
 ---
+title: Word of The Day Bot
+permalink: portfolio/word-of-the-day-bot
+date: 2020-12-29
 layout: single
 classes: wide
-date: 2020-12-29
 author_profile: true
 toc: true
 ---

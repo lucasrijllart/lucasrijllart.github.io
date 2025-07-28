@@ -47,11 +47,11 @@ date:   2025-05-27 19:41:00 -0500
     <img src="../assets/img/portfolio/WOTDB_logo.jpg" class="project-image" alt="WordOfTheDayBot logo">
     <div class="project-text">
         <h3>
-            <a href="../2020/12/29/word-of-the-day-bot.html">Word of the Day Bot</a> — December 2020
+            <a href="/portfolio/word-of-the-day-bot">Word of the Day Bot</a> — December 2020
         </h3>
         <p>
             I created an app that posts a new word or phrase and its definition every day in a picture on social media.
-            I documented the journey from the start of the idea to the fully working project. <a href="../2020/12/29/word-of-the-day-bot.html">Read more...</a>
+            I documented the journey from the start of the idea to the fully working project. <a href="/portfolio/word-of-the-day-bot">Read more...</a>
         </p>
     </div>
 </div>
