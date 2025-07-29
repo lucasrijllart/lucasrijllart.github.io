@@ -1,13 +1,21 @@
 ---
 layout: splash
 title:  "My Career"
-date:   2025-05-27 19:41:00 -0500
+date:   2025-07-28
 ---
 
-## Senior Software Engineer @ [HUVR](https://huvrdata.com): 2023-present
+## Senior Full-Stack Software Engineer @ [HUVR](https://huvrdata.com): 2023-present
 
-At HUVR, we believe that the industrial asset inspection paradigm is broken.
-We deliver a simple to use, purpose-built platform that transforms the way data is collected, managed, and monetized.
+HUVR offers a purpose-built platform for industrial inspections in the Energy industry. It includes a web and mobile app that work together to create a feature-rich all-inclusive platform for inspectors to report their work, and companies can keep track of all their inspection data in one place.
+
+I report directly to the CTO and bring features from concept to reality across the whole technology stack. I gather requirements, design, and implement backend and frontend code, deploy, test, and maintain features. Our stack includes: PostgreSQL, Python, Django, Javascript, React, Redux, all this running Google Cloud.
+
+Being part of a small team (4-6 developers) means I've had the chance to own some big pieces of the platform. Some of the work I'm most proud of:
+- Built Single Sign-On for Google and SAML to make user sign-up in 1 click
+- Integrated Google Vision AI to extract text from images during inspections to easily grab serial numbers and other information
+- Created a media upload page that automatically connects photos and videos to the right project using time and location data
+
+I like building clean and scalable solutions that solve real problems, and always stay focused on the user experience.
 
 <div class="image-container" style="display: inline-block; margin-right: 10px">
   <img src="../assets/img/career/huvr-at-caritas.jpg" alt="The HUVR team at Caritas" width="600">
@@ -28,7 +36,7 @@ Even with my increased managerial responsibilities, I maintained some time for t
 
 <div class="image-container" style="display: inline-block; margin-right: 10px">
   <img src="../assets/img/career/chetwood-in-london.jpeg" alt="The Chetwood engineering team in London" width="600">
-  <p>The Chetwood engineering team in London</p>
+  <p>The Chetwood engineering team in London in 2023</p>
 </div>
 <div class="image-container" style="display: inline-block; margin-right: 10px">
   <img src="../assets/img/career/chetfest.jpeg" alt="Chetwood's annual summer party 'Chetfest' in 2022" width="600">
@@ -43,7 +51,7 @@ Software Engineering · Python · Team Leadership · Software Architecture · Pr
 
 I joined the company as the 20th employee, into a small team of 2 people. Our team was responsible for handling all communications from our internal banking system to external third parties such as Banks, Credit Bureaus, Payment Providers, CRMs, and more. We developed and maintained an API that performed a number of tasks such as inbound and outbound payments, direct debits, credit checks, customer communications, etc.
 
-<div class="image-container" style="margin-left: auto; margin-right: auto; width: 50%; text-align: center">
+<div class="image-container" style="margin-left: auto; margin-right: auto; text-align: center">
   <img src="../assets/img/career/yobota-office.png" alt="Working from the office in London" width="600">
   <p>Working from the office in London</p>
 </div>
