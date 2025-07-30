@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-permalink: /portfolio
+permalink: /portfolio/
 layout: splash  
 date: 2025-05-27 19:41:00 -0500
 ---

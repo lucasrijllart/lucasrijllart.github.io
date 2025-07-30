@@ -1,6 +1,6 @@
 ---
 title:  "My Career"
-permalink: /career
+permalink: /career/
 layout: splash
 date:   2025-07-28
 ---
