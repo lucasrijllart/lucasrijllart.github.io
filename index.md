@@ -36,7 +36,7 @@ I am a Senior Software Engineer at [HUVR](https://www.huvrdata.com) in Austin Te
 
 I was an engineer at [Yobota](https://www.yobota.com/), a vibrant fintech in the heart of London. Yobota built a Banking Platform from scratch, focused on flexibility and reusability. We supplied the platform to 3 financial institutions trading in the UK. The bank [Chetwood Financial](https://www.chetwood.co) acquired Yobota in 2022. I became an engineering team lead and was responsible for the Third-party Integrations team and the Quantitative and Simulation team totaling 11 engineers. My groups were responsible for most of the backend systems of the Banking Platform as I took on the Yobota Platform Tech Lead position. [Read more...](/career/)
 
-**2015**: I interned at [CERN](https://home.cern) where I worked with an engineering team and developed an application for the department. To see more projects I worked on, see my [portfolio](/portfolio/).
+**2015**: I interned at [CERN](https://home.cern) where I worked with an engineering team and developed an application for the department. To see more projects I worked on, see my [portfolio](/projects/).
 
 
 
