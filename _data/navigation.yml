@@ -2,6 +2,6 @@ main:
   - title: Home
     url: /
   - title: Career
-    url: /pages/career.html
+    url: /career
   - title: Portfolio
-    url: /pages/portfolio.html
+    url: /portfolio

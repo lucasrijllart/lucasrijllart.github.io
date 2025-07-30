@@ -1,8 +1,15 @@
 ---
-layout: splash
 title:  "My Career"
+permalink: /career
+layout: splash
 date:   2025-07-28
 ---
+
+<style>
+.image-text {
+  text-align: center
+}
+</style>
 
 ## Senior Full-Stack Software Engineer @ [HUVR](https://huvrdata.com): 2023-present
 
@@ -19,11 +26,11 @@ I like building clean and scalable solutions that solve real problems, and alway
 
 <div class="image-container" style="display: inline-block; margin-right: 10px">
   <img src="../assets/img/career/huvr-at-caritas.jpg" alt="The HUVR team at Caritas" width="600">
-  <p>HUVR preparing meals in a soup kitchen in 2024</p>
+  <p class="image-text">HUVR preparing meals in a soup kitchen in 2024</p>
 </div>
 <div class="image-container" style="display: inline-block; margin-right: 10px">
   <img src="../assets/img/career/huvr-at-curling.jpg" alt="The HUVR team curling" width="600">
-  <p style="text-align:right">HUVR doing some curling in 2025</p>
+  <p class="image-text">HUVR doing some curling in 2025</p>
 </div>
 
 ## Engineering Team Lead @ [Chetwood Financial](https://www.chetwood.co): 2022-2023
@@ -36,11 +43,11 @@ Even with my increased managerial responsibilities, I maintained some time for t
 
 <div class="image-container" style="display: inline-block; margin-right: 10px">
   <img src="../assets/img/career/chetwood-in-london.jpeg" alt="The Chetwood engineering team in London" width="600">
-  <p>The Chetwood engineering team in London in 2023</p>
+  <p class="image-text">The Chetwood engineering team in London in 2023</p>
 </div>
 <div class="image-container" style="display: inline-block; margin-right: 10px">
   <img src="../assets/img/career/chetfest.jpeg" alt="Chetwood's annual summer party 'Chetfest' in 2022" width="600">
-  <p style="text-align:right">Chetwood's annual summer party 'Chetfest' in 2022</p>
+  <p class="image-text">Chetwood's annual summer party 'Chetfest' in 2022</p>
 </div>
 
 #### Technologies and skills used
@@ -53,7 +60,7 @@ I joined the company as the 20th employee, into a small team of 2 people. Our te
 
 <div class="image-container" style="margin-left: auto; margin-right: auto; text-align: center">
   <img src="../assets/img/career/yobota-office.png" alt="Working from the office in London" width="600">
-  <p>Working from the office in London</p>
+  <p class="image-text">Working from the office in London</p>
 </div>
 
 I was tasked with developing new features, performing maintenance on the system, helping investigations during production incidents, assessment and interviewing of new candidates. As the company was quite small, the scope of my role changed often and I took on lots of different tasks and adapted to changes in the organisation around priorities and restructures.
@@ -62,11 +69,11 @@ Some examples of projects I worked on include following: I designed and develope
 
 <div class="image-container" style="display: inline-block; margin-right: 10px">
   <img src="../assets/img/career/yobota-at-sussex.jpg" alt="Myself presenting to the HackSussex event" width="600">
-  <p>Presenting our company during the Sussex hackathon in 2018</p>
+  <p class="image-text">Presenting our company during the Sussex hackathon in 2018</p>
 </div>
 <div class="image-container" style="display: inline-block; margin-right: 10px">
   <img src="../assets/img/career/team-lunch.jpg" alt="Team lunch" width="600">
-  <p style="text-align:right">One of many lunches with the team</p>
+  <p class="image-text">One of many lunches with the team</p>
 </div>
 
 Three years into my role I was promoted to the Senior position to recognise the value I brought to the business. I was viewed by the company as the main point of contact for all work regarding connectivity to third-party integrations.
@@ -77,16 +84,16 @@ Some examples of projects I worked on include: integrated the Yobota Banking Pla
 
 <div class="image-container" style="display: block; margin-bottom: 10px; margin-left: auto; margin-right: auto; width: 50%; text-align: center">
   <img src="../assets/img/career/yobota-at-ICL.jpg" alt="Yobota stand at ICL hackathon in 2018" width="1000">
-  <p>Imperial College London's annual Hackathon</p>
+  <p class="image-text">Imperial College London's annual Hackathon</p>
 </div>
 
 <div class="image-container" style="display: inline-block; margin-right: 30px">
   <img src="../assets/img/career/fintech-talents.jpg" alt="Yobota stand at FinTechTaletns in 2019" width="400">
-  <p>Our stand at the Fintech Talents conference</p>
+  <p class="image-text">Our stand at the Fintech Talents conference</p>
 </div>
 <div class="image-container" style="display: inline-block">
   <img src="../assets/img/career/hottest-fintech.jpeg" alt="" width="700">
-  <p style="text-align:right">The European Tech Startup Awards, Yobota nominated for Hottest Fintech Startup</p>
+  <p class="image-text">The European Tech Startup Awards, Yobota nominated for Hottest Fintech Startup</p>
 </div>
 
 #### Technologies and skills used
