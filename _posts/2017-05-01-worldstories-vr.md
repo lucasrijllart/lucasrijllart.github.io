@@ -1,6 +1,6 @@
 ---
 title: WorldStoriesVR
-permalink: portfolio/worldstoriesvr
+permalink: projects/worldstoriesvr
 date: 2017-05-20
 layout: single
 classes: wide
@@ -9,7 +9,7 @@ author_profile: true
 
 # Virtual Reality history through storytelling lessons
 
-<img src="/assets/img/portfolio/World-stories-VR.jpg" alt="The logo for WorldStoriesVR" width=600 >
+<img src="/assets/img/projects/World-stories-VR.jpg" alt="The logo for WorldStoriesVR" width=600 >
 
 In the recent years applications designed for learning have gained popularity, as they become an acceptable means of acquiring knowledge. 
 These are proven to be a different and sometimes better way to teach young audiences because of the ability to incorporate a wide variety of 
@@ -31,11 +31,11 @@ Watch the demo video below to see the working prototype.
 
 ## Presentation slides
 
-<img src="/assets/img/portfolio/TELE-Slides.001.jpeg" alt="" >
-<img src="/assets/img/portfolio/TELE-Slides.002.jpeg" alt="" >
-<img src="/assets/img/portfolio/TELE-Slides.003.jpeg" alt="" >
-<img src="/assets/img/portfolio/TELE-Slides.004.jpeg" alt="" >
-<img src="/assets/img/portfolio/TELE-Slides.005.jpeg" alt="" >
-<img src="/assets/img/portfolio/TELE-Slides.006.jpeg" alt="" >
-<img src="/assets/img/portfolio/TELE-Slides.007.jpeg" alt="" >
-<img src="/assets/img/portfolio/TELE-Slides.008.jpeg" alt="" >
+<img src="/assets/img/projects/TELE-Slides.001.jpeg" alt="" >
+<img src="/assets/img/projects/TELE-Slides.002.jpeg" alt="" >
+<img src="/assets/img/projects/TELE-Slides.003.jpeg" alt="" >
+<img src="/assets/img/projects/TELE-Slides.004.jpeg" alt="" >
+<img src="/assets/img/projects/TELE-Slides.005.jpeg" alt="" >
+<img src="/assets/img/projects/TELE-Slides.006.jpeg" alt="" >
+<img src="/assets/img/projects/TELE-Slides.007.jpeg" alt="" >
+<img src="/assets/img/projects/TELE-Slides.008.jpeg" alt="" >

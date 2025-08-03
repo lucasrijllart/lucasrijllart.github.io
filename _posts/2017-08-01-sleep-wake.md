@@ -1,6 +1,11 @@
-# Sleep-Wake Robotics
-
-date:  May-Aug 2017
+---
+title: Sleep-Wake Robotics
+permalink: projects/sleep-wake
+date: 2017-08-20
+layout: single
+classes: wide
+author_profile: true
+---
 
 ## Description
 

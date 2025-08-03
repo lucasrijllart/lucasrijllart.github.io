@@ -1,6 +1,6 @@
 ---
 title: Power Is Everything
-permalink: portfolio/power-is-everything
+permalink: projects/power-is-everything
 date: 2017-07-05
 layout: single
 classes: wide
@@ -11,7 +11,7 @@ author_profile: true
 you fire your power bar reduces. Every time you get hit your power bar reduces. The only way to get more power is to defeat enemies, but 
 don’t miss too many times, if you don’t have enough power to defeat the boss at the end each wave of enemies, you're done for!
 
-<img src="/assets/img/portfolio/PIE_enemy.png" alt="Screenshot showing the player's ship and an enemy in space">
+<img src="/assets/img/projects/PIE_enemy.png" alt="Screenshot showing the player's ship and an enemy in space">
 
 Created in C++ from scratch, all resources (except for the Font) were created by our team in the 48 hours as part of the GMTK Game Jam.
 
