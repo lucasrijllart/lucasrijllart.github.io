@@ -20,7 +20,7 @@ I report directly to the CTO and bring features from concept to reality across t
 Being part of a small team (4-6 developers) means I've had the chance to own some big pieces of the platform. Some of the work I'm most proud of:
 - Built Single Sign-On for Google and SAML to make user sign-up in 1 click
 - Integrated Google Vision AI to extract text from images during inspections to easily grab serial numbers and other information
-- Created a media upload page that automatically connects photos and videos to the right project using time and location data
+- [Intelligent Ingest](https://www.huvrdata.com/technology/huvr-intelligent-ingest/): created a media upload page that automatically connects photos and videos to the right project using time and location data.
 
 I like building clean and scalable solutions that solve real problems, and always stay focused on the user experience.
 

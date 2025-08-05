@@ -1,6 +1,13 @@
-# Rolls-Royce Starlight hackathon for HackSussex
-date: November 2017
-Another very successful Hackathon at the University of Sussex, organised by Hack Sussex! The task we faced was the Rolls-Royce Starlight Challenge, where teams had to reinvent the car’s Starlight ceiling. Click here for a link to the GitHub page. link:https://github.com/lucasrijllart/Starlight-Challenge
+---
+title: Rolls-Royce Starlight hackathon for HackSussex
+permalink: projects/starlight
+date: 2017-11-13
+layout: single
+classes: wide
+author_profile: true
+---
+
+Another very successful Hackathon at the University of Sussex, organised by HackSussex! The task we faced was the Rolls-Royce Starlight Challenge, where teams had to reinvent the car’s Starlight ceiling. The GitHub page for the project: <https://github.com/lucasrijllart/Starlight-Challenge>
 
 We discussed the features and the target audience to decide which direction we would take the project. The end goal was allowing users to control the ceiling using the built-in display and a mobile app.
 
@@ -22,4 +29,4 @@ logo, at the table, me putting in fiber, presentation, sitting in room, standing
 
 Watch the official HackSussex aftermath video here:
 
-https://www.facebook.com/hacksussex/videos/vb.1584588428506851/1899534337012257/
+<https://www.facebook.com/hacksussex/videos/vb.1584588428506851/1899534337012257/>
