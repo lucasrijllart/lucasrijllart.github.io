@@ -95,13 +95,13 @@ date: 2025-05-27 19:41:00 -0500
     <img src="/assets/img/projects/hacksussex-logo.jpg" class="project-image">
     <div class="project-text">
         <h3>
-            <a href="/2017/11/01/starlight-hackathon.html">Rolls-Royce Starlight hackathon for HackSussex</a> — November 2017
+            <a href="/projects/starlight">Rolls-Royce Starlight hackathon for HackSussex</a> — November 2017
         </h3>
         <p>
             After another very successful Hackathon at the University of Sussex, I review our experiences and the lessons learned from this
             24-hour challenge. We took on the Rolls-Royce Starlight challenge, successfully constructing a hardware and software prototype,
             and being awarded with the competition’s Hardware Challenge prize and Major League Hacking finalist medal. 
-            <a href="/2017/11/01/starlight-hackathon.html">Read more...</a>
+            <a href="/projects/starlight">Read more...</a>
             <br/><br/>
             Arduino, C++, LED, Hardware, Electrical Engineering, Teamwork
         </p>

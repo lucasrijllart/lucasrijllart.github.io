@@ -13,8 +13,7 @@ We discussed the features and the target audience to decide which direction we w
 
 We divided into teams between software and hardware experts and started researching, planning and experimenting with the tools available. The project makes use of an Arduino connected to multiple sensors of sound and movement, and NeoPixel plates of 8x8 RGB LEDs. We worked fast towards the goal of achieving the first working prototype, to allow programmers to start using the LEDs. Once the first visuals were being built, we had meetings to exchange more ideas, and rotated between tasks, allowing everyone to experience working on every side of this project.
 
-!picture of the team (me putting in wires)
-The team hard at work
+<img src="/assets/img/projects/starlight-wires.jpg" alt="Me threading optic fibers into a piece of roof liner">
 
 The physical model consists of a scrap piece of Rolls-Royce headliner, with 256 optic fibres arranged in a square to create a display, each of these fibres connecting to the LED display. Once the model was finished, we tested the display with our visuals, fine-tuning each pattern.
 
@@ -24,9 +23,16 @@ At this point of the hackathon, the sun was up and only a few hours of the compe
 
 The lessons learned from this project were numerous, however the most important are that teamwork and organisation were the main factors allowing us to tackle this complex challenge. The team moved swiftly and fluidly, creating an environment where an individual can choose a task that plays to their strengths, and can also be taught new skills by their teammates.
 
-!gallery
-logo, at the table, me putting in fiber, presentation, sitting in room, standing at front, medals, girl in front of logo
+Watch the official HackSussex aftermath video:
 
-Watch the official HackSussex aftermath video here:
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fhacksussex%2Fvideos%2F1899534337012257%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
-<https://www.facebook.com/hacksussex/videos/vb.1584588428506851/1899534337012257/>
+Link if video player is broken: <https://www.facebook.com/hacksussex/videos/vb.1584588428506851/1899534337012257/>
+
+<img src="/assets/img/projects/startlight-hacksussex.jpg">
+<img src="/assets/img/projects/starlight-team.jpg">
+<img src="/assets/img/projects/starlight-audience.jpg">
+<img src="/assets/img/projects/starlight-design.jpg">
+<img src="/assets/img/projects/starlight-presentation-1.jpg">
+<img src="/assets/img/projects/starlight-presentation-2.jpg">
+<img src="/assets/img/projects/starlight-medals.jpg">

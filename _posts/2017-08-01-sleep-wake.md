@@ -1,5 +1,5 @@
 ---
-title: Sleep-Wake Robotics
+title: Sleep-Wake Robotics - Masters Thesis
 permalink: projects/sleep-wake
 date: 2017-08-20
 layout: single
