@@ -14,12 +14,20 @@ One day, while browsing Instagram, I found the [Merriam-Webster Instagram accoun
 
 In the rest of this post, I write about the journey from an idea to a fully working prototype along with the challenges faced, and expanding it past MVP stage. 
 
-Read along to see how less than two weeks turned into this Twitter account:
+Read along to see how less than two weeks turned into this Twitter account and now a Facebook page:
 
 <img src="/assets/img/projects/WOTDB_twitter.jpg" alt="The WordOfTheDayBot Twitter account" width=400/>
 
 <!-- Tweets by WordOfTheDay_B
 <a class="twitter-timeline" data-lang="en" data-width="500" data-height="600" data-theme="light" href="https://twitter.com/WordOfTheDay_B?ref_src=twsrc%5Etfw">Tweets by WordOfTheDay_B</a> <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
+
+See the active facebook page:
+
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v23.0&appId=408955980441597"></script>
+
+<div class="fb-page" data-href="https://www.facebook.com/RandomWordOfTheDayBot" data-tabs="" data-width="400" data-height="300" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><blockquote cite="https://www.facebook.com/RandomWordOfTheDayBot" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/RandomWordOfTheDayBot">Word of the day bot</a></blockquote></div>
+
 
 The first challenge I thought of was around finding random words and definitions. I went for a browse around <https://rapidapi.com> to see if an API that provides words and definitions already existed. With no surprise, I quickly found one that did just that, and that’s how I was motivated to start this project.
 
