@@ -37,5 +37,3 @@ Robotics has always faced the issue of adaptability to new environments and new 
 View Dissertation by clicking on the image below:
 
 <a href="/assets/docs/Sleep-Wake-Dissertation.pdf" target="_blank"><img src="/assets/img/projects/sleep-wake-dissertation.jpg" alt="The front page of the dissertation"></a>
-
-http://lucasrijllart.com/wp-content/uploads/2017/11/Dissertation_162206.pdf

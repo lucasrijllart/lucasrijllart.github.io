@@ -79,10 +79,10 @@ date: 2025-05-27 19:41:00 -0500
     <img src="../assets/img/projects/Fight-twitter-logo.png" class="project-image" width=300>
     <div class="project-text">
         <h3>
-            <a href="/2017/12/03/fight-twitter.html">Fight Twitter Hackathon</a> — December 2017
+            <a href="/projects/fight-twitter">Fight Twitter Hackathon</a> — December 2017
         </h3>
         <p>
-            In this hackathon, we combined Twitter and silly physics to create Fight Twitter – a slapstick fighting game where the fighters look like real twitter users. Just enter two Twitter usernames, and slap each other off the platforms to win. This was designed and implemented in 12 hours. <a href="/2017/12/03/fight-twitter.html">Read more...</a>
+            In this hackathon, we combined Twitter and silly physics to create Fight Twitter – a slapstick fighting game where the fighters look like real twitter users. Just enter two Twitter usernames, and slap each other off the platforms to win. This was designed and implemented in 12 hours. <a href="/projects/fight-twitter">Read more...</a>
             <br><br>
             Unity, C#, Twitter scripts, Game Design, Animation, Game Music, Teamwork
         </p>
