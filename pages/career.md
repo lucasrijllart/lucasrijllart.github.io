@@ -1,13 +1,28 @@
 ---
 title:  "My Career"
 permalink: /career/
-layout: splash
 date:   2025-07-28
+layout: single
+classes: wide
+author_profile: true
+toc: true
 ---
 
 <style>
 .image-text {
-  text-align: center
+  text-align: center;
+  font-size: 0.8em !important;
+}
+.image-container {
+  display: inline-block;
+  margin-right: 10px;
+  width: 48%;
+}
+.image-container.centered {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  text-align: center;
 }
 </style>
 
@@ -24,14 +39,18 @@ Being part of a small team (4-6 developers) means I've had the chance to own som
 
 I like building clean and scalable solutions that solve real problems, and always stay focused on the user experience.
 
-<div class="image-container" style="display: inline-block; margin-right: 10px">
-  <img src="../assets/img/career/huvr-at-caritas.jpg" alt="The HUVR team at Caritas" width="600">
+<div class="image-container">
+  <img src="../assets/img/career/huvr-at-caritas.jpg" alt="The HUVR team at Caritas">
   <p class="image-text">HUVR preparing meals in a soup kitchen in 2024</p>
 </div>
-<div class="image-container" style="display: inline-block; margin-right: 10px">
-  <img src="../assets/img/career/huvr-at-curling.jpg" alt="The HUVR team curling" width="600">
+<div class="image-container">
+  <img src="../assets/img/career/huvr-at-curling.jpg" alt="The HUVR team curling">
   <p class="image-text">HUVR doing some curling in 2025</p>
 </div>
+
+**Technologies and skills used**
+
+Python, Django REST Framework, Javascript, React, Redux, PostgreSQL, Google Cloud Platform, Technical Design
 
 ## Engineering Team Lead @ [Chetwood Financial](https://www.chetwood.co): 2022-2023
 
@@ -41,16 +60,16 @@ During this time I was focused on stabilising and improving the team habits by d
 
 Even with my increased managerial responsibilities, I maintained some time for technical work. Some examples of tasks I worked on include: designed and implemented a new integration with a new online card payment provider (Worldpay by FIS) in our banking platform; helped design a new type of Deposit Account product in our platform; created multiple GitHub Actions to help improve development process including a Django database migration validator and automated regression test runner.
 
-<div class="image-container" style="display: inline-block; margin-right: 10px">
-  <img src="../assets/img/career/chetwood-in-london.jpeg" alt="The Chetwood engineering team in London" width="600">
+<div class="image-container">
+  <img src="../assets/img/career/chetwood-in-london.jpeg" alt="The Chetwood engineering team in London">
   <p class="image-text">The Chetwood engineering team in London in 2023</p>
 </div>
-<div class="image-container" style="display: inline-block; margin-right: 10px">
-  <img src="../assets/img/career/chetfest.jpeg" alt="Chetwood's annual summer party 'Chetfest' in 2022" width="600">
+<div class="image-container">
+  <img src="../assets/img/career/chetfest.jpeg" alt="Chetwood's annual summer party 'Chetfest' in 2022">
   <p class="image-text">Chetwood's annual summer party 'Chetfest' in 2022</p>
 </div>
 
-#### Technologies and skills used
+**Technologies and skills used**
 
 Software Engineering · Python · Team Leadership · Software Architecture · Project Management · Amazon Web Services (AWS) · management
 
@@ -58,8 +77,8 @@ Software Engineering · Python · Team Leadership · Software Architecture · Pr
 
 I joined the company as the 20th employee, into a small team of 2 people. Our team was responsible for handling all communications from our internal banking system to external third parties such as Banks, Credit Bureaus, Payment Providers, CRMs, and more. We developed and maintained an API that performed a number of tasks such as inbound and outbound payments, direct debits, credit checks, customer communications, etc.
 
-<div class="image-container" style="margin-left: auto; margin-right: auto; text-align: center">
-  <img src="../assets/img/career/yobota-office.png" alt="Working from the office in London" width="600">
+<div class="image-container centered" style="width: 80%">
+  <img src="../assets/img/career/yobota-office.png" alt="Working from the office in London">
   <p class="image-text">Working from the office in London</p>
 </div>
 
@@ -67,12 +86,12 @@ I was tasked with developing new features, performing maintenance on the system,
 
 Some examples of projects I worked on include following: I designed and developed a testing framework used internally and by our QA team to ‘fake’ responses from our third parties; added Prometheus metrics to our API and built a Grafana dashboard to view the system health/stats; implemented an auto-scaling process for our hosted servers based on a Redis datastore to improve cost efficiency; integrated with AWS Secrets Manager to more securely handle third-party credentials; designed and implemented new Django REST endpoints for new features and a framework for segregation of accounts using a Postgres Database cache.
 
-<div class="image-container" style="display: inline-block; margin-right: 10px">
-  <img src="../assets/img/career/yobota-at-sussex.jpg" alt="Myself presenting to the HackSussex event" width="600">
-  <p class="image-text">Presenting our company during the Sussex hackathon in 2018</p>
+<div class="image-container">
+  <img src="../assets/img/career/yobota-at-sussex.jpg" alt="Myself presenting to the HackSussex event">
+  <p class="image-text">Presenting Yobota during the Sussex hackathon in 2018</p>
 </div>
-<div class="image-container" style="display: inline-block; margin-right: 10px">
-  <img src="../assets/img/career/team-lunch.jpg" alt="Team lunch" width="600">
+<div class="image-container">
+  <img src="../assets/img/career/team-lunch.jpg" alt="Team lunch">
   <p class="image-text">One of many lunches with the team</p>
 </div>
 
@@ -82,20 +101,20 @@ This increased responsibility meant that I spent a lot of time on high importanc
 
 Some examples of projects I worked on include: integrated the Yobota Banking Platform with the Salesforce CRM API to store customer records; successfully implemented and launched Direct Debits for business bank accounts for a new client; designed, presented internally, and implemented a large effort to make our systems more generic and flexible, with better separation of concerns; performed multiple presentations to technical and non-technical audiences about technical topics; wrote automated regression tests in BDD and Cypress (Javascript framework).
 
-<div class="image-container" style="display: block; margin-bottom: 10px; margin-left: auto; margin-right: auto; width: 50%; text-align: center">
-  <img src="../assets/img/career/yobota-at-ICL.jpg" alt="Yobota stand at ICL hackathon in 2018" width="1000">
-  <p class="image-text">Imperial College London's annual Hackathon</p>
-</div>
-
-<div class="image-container" style="display: inline-block; margin-right: 30px">
-  <img src="../assets/img/career/fintech-talents.jpg" alt="Yobota stand at FinTechTaletns in 2019" width="400">
+<div class="image-container centered">
+  <img src="../assets/img/career/fintech-talents.jpg" alt="Yobota stand at FinTechTaletns in 2019">
   <p class="image-text">Our stand at the Fintech Talents conference</p>
 </div>
+
+<div class="image-container">
+  <img src="../assets/img/career/yobota-at-ICL.jpg" alt="Yobota stand at ICL hackathon in 2018">
+  <p class="image-text">Imperial College London's annual Hackathon</p>
+</div>
 <div class="image-container" style="display: inline-block">
-  <img src="../assets/img/career/hottest-fintech.jpeg" alt="" width="700">
-  <p class="image-text">The European Tech Startup Awards, Yobota nominated for Hottest Fintech Startup</p>
+  <img src="../assets/img/career/hottest-fintech.jpeg" alt="Yobota staff at the European Tech Startup Awards">
+  <p class="image-text">The European Tech Startup Awards</p>
 </div>
 
-#### Technologies and skills used
+**Technologies and skills used**
 
 Software Engineering · Python · Project Management · Shell Scripting · Test Driven Development · PostgreSQL · Redis · Django REST Framework · Docker · Amazon Web Services (AWS) · Management · Agile Methodologies · GitHub

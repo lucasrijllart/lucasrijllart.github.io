@@ -12,12 +12,12 @@ date:   2025-05-27 19:41:00 -0500
 
 </div>
 
-I'm a software engineer living in Austin, Texas. I am currently working at HUVR, where we offer an industrial  inspection and repair platform in the energy sector. I worked for 5 years in London, UK in the Financial Tech sector.
+I'm a software engineer living in Austin, Texas. I am currently working at [HUVR](https://www.huvrdata.com), where we offer an industrial  inspection and repair platform in the energy sector. I worked for 5 years in London, UK in the Financial Tech sector.
 <!-- 
 I progressed from a development position to leading multiple teams of engineers responsible for most of the backend systems of our Banking Platform.
 -->
 
-I am passionate about finding solutions to complex problems and systems design, leading engineering teams towards efficient development processes and lifecycle, and working with people from different backgrounds and roles to achieve our objectives. I specialize in developing and maintaining APIs, with some frontend experience, handling integrations with third-party systems, and designing scalable and secure high-traffic solutions.
+I enjoy finding solutions to complex problems and systems design, leading engineering teams towards efficient development processes and lifecycle, and working with people from different backgrounds and roles to achieve our objectives. I specialize in developing and maintaining APIs, with some frontend experience, handling integrations with third-party systems, and designing scalable and secure high-traffic solutions.
 
 My enthusiasm is driven by delivering functionality through good design and solid implementation. I am also experienced in hiring the right employees across teams, and contribute to a company culture of ownership, customer focus, and fun.
 

@@ -59,7 +59,7 @@ date: 2025-05-27 19:41:00 -0500
 
 <hr/>
 
-<div class="project-block">
+<!-- <div class="project-block">
     <img src="../assets/img/projects/murder-with-friends-logo.png" class="project-image" width=300>
     <div class="project-text">
         <h3>
@@ -73,7 +73,7 @@ date: 2025-05-27 19:41:00 -0500
     </div>
 </div>
 
-<hr/>
+<hr/> -->
 
 <div class="project-block">
     <img src="../assets/img/projects/Fight-twitter-logo.png" class="project-image" width=300>
